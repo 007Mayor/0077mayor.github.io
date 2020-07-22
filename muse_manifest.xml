@@ -1,40 +1,51 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="007mayor.github.io" resolutions="1x" timestamp="1595359723604">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="007mayor.github.io" resolutions="1x" timestamp="1595441411940">
   <folder name="css">
     <file name="site_global.css" crc="458133600"/>
-    <file name="index.css" crc="4221525978" ref="index"/>
-    <file name="iefonts_index.css" crc="3889407386" ref="index"/>
+    <file name="index.css" crc="4024627541" ref="index"/>
+    <file name="iefonts_index.css" crc="74860388" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="form_check.php" crc="4020933626" ref="index"/>
     <file name="form_throttle.php" crc="4259590256" ref="index"/>
     <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u2091.php" crc="508531842" ref="index"/>
+    <file name="form-u3983.php" crc="502834582" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form-u4232.php" crc="4134003527" ref="index"/>
+    <file name="form-u4340.php" crc="4038267900" ref="index"/>
+    <file name="form-u4448.php" crc="3789823587" ref="index"/>
+    <file name="form-u4556.php" crc="3762472722" ref="index"/>
+    <file name="form-u4772.php" crc="19708158" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="домашняя-favicon.ico" crc="3977181770" ref="index"/>
-    <file name="pc.png" crc="226839085" seo="true" ref="index">
+    <file name="pc.png" crc="3922946713" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
     <file name="компьютер прозрачный маленький.jpg" crc="4099051759" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="020.svg" crc="4079891428" ref="index"/>
     <file name="020_poster_u2160.png" crc="333833387" ref="index"/>
-    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
     <file name="компьютер перспектива.jpg" crc="4116225674" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -105,5 +116,5 @@
     </file>
     <file name="вставленные svg 83428x125_poster_.png" crc="384380713" ref="index"/>
   </folder>
-  <file name="index.html" crc="4153010903" seo="true" mt="1595357375100" redirect="true"/>
+  <file name="index.html" crc="328703627" seo="true" mt="1595441360824" redirect="true"/>
 </manifest>
