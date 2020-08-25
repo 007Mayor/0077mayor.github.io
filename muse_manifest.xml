@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="007mayor.github.io" resolutions="1x" timestamp="1598386706640">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="007mayor.github.io" resolutions="1x" timestamp="1598387170223">
   <folder name="css">
     <file name="site_global.css" crc="458133600"/>
     <file name="index.css" crc="3913475029" ref="index"/>
@@ -114,5 +114,5 @@
     </file>
     <file name="вставленные svg 83428x125_poster_.png" crc="384380713" ref="index"/>
   </folder>
-  <file name="index.html" crc="149229927" seo="true" mt="1598386652306" redirect="true"/>
+  <file name="index.html" crc="415619252" seo="true" mt="1598387154580" redirect="true"/>
 </manifest>
