@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="007mayor.github.io" resolutions="1x" timestamp="1598388830478">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="007mayor.github.io" resolutions="1x" timestamp="1611261855730">
   <folder name="css">
     <file name="site_global.css" crc="458133600"/>
-    <file name="index.css" crc="333463645" ref="index"/>
-    <file name="iefonts_index.css" crc="3778425931" ref="index"/>
+    <file name="index.css" crc="3827528077" ref="index"/>
+    <file name="iefonts_index.css" crc="3937588923" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,15 +24,13 @@
     </file>
     <file name="020.svg" crc="4079891428" ref="index"/>
     <file name="020_poster_u2160.png" crc="333833387" ref="index"/>
-    <file name="компьютер перспектива.jpg" crc="4116225674" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="оперативная память.png" crc="385941119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="вайфай можуль.png" crc="4090939039" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -40,6 +38,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="виндовс.png" crc="4221583629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -93,6 +92,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="вставленные svg 83428x125_poster_.png" crc="384380713" ref="index"/>
+    <file name="20210106_191956.jpg" crc="3973393027" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2904.jpg" crc="4039284016" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20210114_004250.jpg" crc="345575406" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="248499866" seo="true" mt="1598388814761" redirect="true"/>
+  <file name="index.html" crc="379080221" seo="true" mt="1611261854309" redirect="true"/>
 </manifest>
